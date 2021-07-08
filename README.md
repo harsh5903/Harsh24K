@@ -1,7 +1,6 @@
-<h1 align="center" > Hi, I am Harshvardhan Agarwal 👋</h1>
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
-
+<h1 align="center" > Hi, I am Harshvardhan Agarwal 👋</h1>
 - 🎓Computer Science student at VIT, Vellore
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, full-stack, web, or literally anything!
